@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Has the scar been painful the past few weeks?",
+    "top_msg": "not at all",
+    "bot_msg": "extremely painful",
+    "info": "info here 1"
+  },
+  {
+    "question": "Has the scar been itching the past few weeks?",
+    "top_msg": "not at all",
+    "bot_msg": "extremely itchy",
+    "info": "info here 2"
+  },
+  {
+    "question": "Is the scar color different from the color of your normal skin at present?",
+    "top_msg": "same as skin",
+    "bot_msg": "very different",
+    "info": "info here 3"
+  },
+  {
+    "question": "Is the stiffness of the scar different from your normal skin at present?",
+    "top_msg": "same as skin",
+    "bot_msg": "very stiff",
+    "info": "info here 4"
+  },
+  {
+    "question": "Is the thickness of the scar different from your normal skin at present?",
+    "top_msg": "same as skin",
+    "bot_msg": "very thick",
+    "info": "info here 5"
+  },
+  {
+    "question": "Is the scar more irregular than your normal skin at present?",
+    "top_msg": "same as skin",
+    "bot_msg": "very irregular",
+    "info": "info here 6"
+  },
+  {
+    "question": "What is your overall opinion of the scar compared to normal skin?",
+    "top_msg": "same as skin",
+    "bot_msg": "very different",
+    "info": "info here 7"
+  }
+]
